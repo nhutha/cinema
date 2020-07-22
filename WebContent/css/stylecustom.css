@@ -1,0 +1,23 @@
+.login{
+	padding: 30px;
+}
+
+.narlanguage{
+	padding-right: 30px;
+	margin-right: 100px;
+}
+
+.nar-location{
+	padding-left: 200px;
+}
+.login:hover, .language:hover{
+	text-decoration: none;
+}
+
+.review-slider {
+	background: #dfb636;
+	padding: 3em 0;
+}
+.divNar{
+	height: 100px;
+}
